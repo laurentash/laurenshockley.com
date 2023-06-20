@@ -12,6 +12,10 @@ class Page3ContactController extends Controller
         return view('contact');
     } 
 
+    public function page() {
+        return view('resumecontact');
+    } 
+
     public function sendmail(Request $details) {
         $details->validate([
             'email' => 'required|email',
@@ -23,5 +27,18 @@ class Page3ContactController extends Controller
         Contact::create($details->all());
         return redirect()->back()->with(['success' => 'Thank you!']);
     }
+
+    public function resumeinfo(Request $details) {
+        $details->validate([
+            'email' => 'required|email',
+            'first_name' => 'required',
+            'last_name' => 'required',
+            'message' => 'required'
+        ]);
+
+       
+        return redirect()->back()->with(['success' => 'Thank you!']);
+    }
 }
+
 
