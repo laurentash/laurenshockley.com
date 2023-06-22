@@ -20,3 +20,5 @@ Route::post('/send-mail', [Page3ContactController::class, 'sendmail'])->name('se
 Route::get('/posts', [EmailsController::class, 'index']); 
 
 Route::get('/resumeinfo', [Page3ContactController::class, 'page']);
+
+Route::post('/thankyou', [Page3ContactController::class, 'resumeinfo'])->name('resumeinfo');

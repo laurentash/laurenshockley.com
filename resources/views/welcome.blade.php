@@ -1,4 +1,4 @@
-@extends('navbar')
+@extends('stickynav')
 
 @section('content')
 

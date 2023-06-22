@@ -5,7 +5,7 @@
 
 
 
-<div class="flex flex-wrap justify-center max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<div class="justify-center items-center max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <form method="POST" action={{ route('send-mail') }}>
         @csrf
         <h1 class="text-bold text-center text-lg"> Send me an email!</h1>

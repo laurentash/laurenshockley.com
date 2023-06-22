@@ -36,9 +36,10 @@ class Page3ContactController extends Controller
             'message' => 'required'
         ]);
 
-       
-        return redirect()->back()->with(['success' => 'Thank you!']);
+        Contact::create($details->all());
+        return view('thankyou');
     }
+
 }
 
 
