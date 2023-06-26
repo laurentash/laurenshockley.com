@@ -2,13 +2,13 @@
 
 @section('content')
 
-<h1 class="m-4 p-6 font-mono text-center text-bold text-white text-3xl">About me</h1>
+<h1 class="m-4 p-6 font-serif text-center text-bold text-white text-4xl">About me</h1>
 
 <div class="flex justify-center">
     <div class="w-2/3">
         <p class="mx-6 whitespace-pre-line align-middle text-white text-left text-md">Hello world! 
             
-            As you may know by now, I am Lauren Shockley, the author, designer, and administrator of this very website you are currently on. Thank you again for dedicating some precious time out of your day to learn more about me, my goals, and experience. 
+            As you may know by now, I am Lauren Shockley, the author, designer, and administrator of this very website you are currently on. Thank you again for dedicating some precious time out of your day to learn more about me. 
             
             I am currently a full-time student pursuing a Bachelors of Science degree in Cybersecurity at Kennesaw State University, with a specialization in systems security, and an independent focus on penetration testing.
             
@@ -26,11 +26,11 @@
 </div>
 
 
-<h1 class="m-4 p-6 font-mono text-bold text-center text-white text-4xl"> About this website</h1>
+<h1 class="m-4 p-6 font-serif text-bold text-center text-white text-4xl"> About this website</h1>
 
 <div class="flex justify-center">
     <div class="w-2/3">
-        <p class="mx-6 whitespace-pre-line align-middle text-white text-left text-md">This website is built off of the web application framework Laravel v10.2.2, using the open source CSS framework Tailwind CSS.
+        <p class="mx-6 whitespace-pre-line align-middle text-white text-left text-md">This website is built off of the web application framework Laravel v10.2.2, using the open source CSS framework Tailwind CSS  v3.3.2.
 
             Laurenshockley.com is hosted by yours truly off of [LINUX SERVER OS] by way of an upcycled Optiplex tower PC. 
             
@@ -39,6 +39,8 @@
             Includes an interactive SQL database to store contacts and logs with aid of XAMPP software. 
             
             Ongoing website projects include: open source API integration, web-hosted cloud storage and custom VPN for remote drive access. 
+
+            **network access storage n- triston
             
             
             
