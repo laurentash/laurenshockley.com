@@ -15,22 +15,22 @@
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-6">
       <a href="/" class="flex items-center">
           
-          <span class="font-mono text-2xl text-[#865DFF] font-bold hover:underline whitespace-nowrap">LaurenShockley.com</span>
+          <span class="font-mono text-4xl text-[#865DFF] font-bold hover:underline whitespace-nowrap">LaurenShockley.com</span>
       </a>
      
       <div class="hidden w-full md:block md:w-auto" id="navbar-solid-bg">
         <ul class="flex flex-col font-medium mt-4 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-transparent">
           <li>
-            <a href="/about" class="block py-2 pl-3 pr-4 text-[#E384FF] rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#e5ff00] md:p-0">Home</a>
+            <a href="/" class="block py-2 pl-3 pr-4 text-[#E384FF] rounded md:hover:bg-transparent md:border-0 hover:text-[#e5ff00] md:p-0">Home</a>
           </li>
           <li>
             <a href="/about" class="block py-2 pl-3 pr-4 text-[#E384FF] rounded md:hover:bg-transparent md:border-0 md:hover:text-[#e5ff00] md:p-0">About</a>
           </li>
           <li>
-            <a href="/resume" class="block py-2 pl-3 pr-4 text-[#E384FF] rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#e5ff00] md:p-0">Resume</a>
+            <a href="/resume" class="block py-2 pl-3 pr-4 text-[#E384FF] rounded md:hover:bg-transparent md:border-0 md:hover:text-[#e5ff00] md:p-0">Resume</a>
           </li>
           <li>
-            <a href="/contact" class="block py-2 pl-3 pr-4 text-[#E384FF] rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#e5ff00] md:p-0">Contact</a>
+            <a href="/contact" class="block py-2 pl-3 pr-4 text-[#E384FF] rounded md:hover:bg-transparent md:border-0 md:hover:text-[#e5ff00] md:p-0">Contact</a>
           </li>
         </ul>
       </div>

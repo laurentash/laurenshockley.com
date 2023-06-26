@@ -45,14 +45,14 @@
 </div> --}}
 
 <section class="bg-black">
-    <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
+    <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto">
         <div class="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
             <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
-                <h1 class="text-xl text-center font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
-                    Create an account
+                <h1 class="text-2xl text-center font-bold font-mono leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
+                    Please provide your information. 
                 </h1>
-                <h3>
-                </h3>
+                <p class="text-xs text-bold">Due to safety concerns, access to the full resume will be granted only after submitting your information. Thank you for understanding!
+                </p>
                 <form class="space-y-4 md:space-y-6" method="POST" action={{ route('resumeinfo') }}>
                     @csrf
                     <div>
