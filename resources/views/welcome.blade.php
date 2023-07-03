@@ -8,7 +8,7 @@
         <div class="mx-auto max-w-screen-xl text-center ">
             
             <h1 class="mb-4 text-4xl font-extrabold tracking-tight font-serif leading-none text-white md:text-5xl lg:text-6xl">Your one-stop-shop for all things me</h1>
-            <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Not only do you get to visit a cool website, you get to learn about me in the process!</p>
+            <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 xl:px-48">Not only do you get to visit a cool website, you get to learn about me in the process!</p>
             
             <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
                 <a href="/resume" class="inline-flex justify-center items-center text-[#e5ff00] py-3 px-5 text-base font-medium text-center hover:text-[#E384FF] rounded-lg">
@@ -38,7 +38,8 @@
             <img class="w-full transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0 rounded-lg shadow-lg" src="sitting.jpeg"/>
             <div class="mt-4 md:mt-0">
                 <h2 class="mb-4 text-4xl font-serif tracking-tight font-semibold text-white">Someone You Can Rely On</h2>
-                <p class="mb-6 font-light text-gray-300 md:text-lg">We're the Wreck Techs! We are a team of undergraduate students at Georgia Tech that assist other students, faculty, and staff throughout the year with technical and customer service needs, specializing in fixing wired and wireless Internet issues within campus residential environments. We assist customers via email, phone, live chat, and in walk-up locations in both Howell Residence Hall and West Village Dining Commons.</p>
+                <p class="mb-6 font-light text-gray-200 md:text-lg">I'm the tech employee you can trust, and I've clearly got the computers to prove it. Consider me your reliable workhorse in the realm of technology. Whether you need software knowledge, systems management, or cybersecurity capabilities, I'll be your dependable partner. I stay updated on all the tech trends and latest vulnerabilities, so you can sit back and relax while I handle the complexity with precision and consistency. Let's team up and make your future talent acquisition experience a successful adventure with a dedicated person you can always count on!
+                </p>
             </div>
         </div>
     </section>
@@ -50,8 +51,8 @@
                 
         
                 <div class="col-span-1">
-                    <h2 class="mb-4 text-4xl font-serif tracking-tight font-semibold text-white">Person over Payables. Symbiosis over Settlement </h2>
-                    <p class="mb-6 font-light text-gray-300 md:text-lg">We're the Wreck Techs! We are a team of undergraduate students at Georgia Tech that assist other students, faculty, and staff throughout the year with technical and customer service needs, specializing in fixing wired and wireless Internet issues within campus residential environments. We assist customers via email, phone, live chat, and in walk-up locations in both Howell Residence Hall and West Village Dining Commons.</p>
+                    <h2 class="mb-4 text-4xl font-serif tracking-tight font-semibold text-white">Symbiosis over Settlement</h2>
+                    <p class="mb-6 font-light text-gray-200 md:text-lg">We're the Wreck Techs! We are a team of undergraduate students at Georgia Tech that assist other students, faculty, and staff throughout the year with technical and customer service needs, specializing in fixing wired and wireless Internet issues within campus residential environments. We assist customers via email, phone, live chat, and in walk-up locations in both Howell Residence Hall and West Village Dining Commons.</p>
                 </div>
     
                 <div id="custom-controls-gallery" class="relative w-full" data-carousel="slide">
