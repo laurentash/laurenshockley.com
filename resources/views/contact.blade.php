@@ -8,8 +8,9 @@
     <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
         <div class="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
             <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
-                <h1 class="text-bold text-center text-lg"> Send me an email!</h1>
-                <h3 class="text-center"> Fill in blah blah</h3>
+                <h1 class="text-4xl text-center font-serif  text-black md:text-2xl dark:text-white">Send Lauren an Email</h1>
+                <h3 class="text-sm text-bold mx-auto text-center">Fill in your contact information below and click submit to send me a direct email.</h3>
+                <h3 class="text-sm text-bold mx-auto text-center">I will return your message as soon as I am able.</h3>
                 <form class="space-y-4 md:space-y-6" method="POST" action={{ route('send-mail') }}>
                     @csrf
                     <div class="grid md:grid-cols-2 md:gap-6">

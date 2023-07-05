@@ -25,7 +25,7 @@ class Page3ContactController extends Controller
         ]);
 
         Contact::create($details->all());
-        return redirect()->back()->with(['success' => 'Thank you!']);
+        return view('mailconfirmed');
     }
 
     public function resumeinfo(Request $details) {
