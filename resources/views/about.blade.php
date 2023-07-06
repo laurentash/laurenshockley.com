@@ -73,6 +73,10 @@ make new twitter and reddit for website
 
 ensure linked in and git lings work. add tryhack me link inside somehwener.
 
+openspeed test api add
+
+add honey pot?
+
 
 
 

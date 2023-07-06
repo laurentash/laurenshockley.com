@@ -38,7 +38,7 @@
             <img class="w-full transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0 rounded-lg shadow-lg" src="sitting.jpeg"/>
             <div class="mt-4 md:mt-0">
                 <h2 class="mb-4 text-4xl font-serif tracking-tight font-semibold text-white">Someone You Can Rely On</h2>
-                <p class="mb-6 font-light text-gray-200 md:text-lg">I'm the tech employee you can trust, and I've clearly got the computers to prove it. Consider me your reliable workhorse in the realm of technology. Whether you need software knowledge, systems management, or cybersecurity capabilities, I'll be your dependable partner. I stay updated on all the tech trends and latest vulnerabilities, so you can sit back and relax while I handle the complexity with precision and consistency. Let's team up and make your future talent acquisition experience a successful adventure with a dedicated person you can always count on!
+                <p class="mb-6 font-light text-gray-200 md:text-lg">I'm the tech employee you can trust. Consider me your reliable workhorse in the realm of technology. Whether you need software knowledge, systems management, or cybersecurity capabilities, I'll be your dependable partner. I stay updated on all the tech trends and latest vulnerabilities, so you can sit back and relax while I handle the complexity with precision and consistency. Let's team up and make your future talent acquisition experience a successful adventure with a dedicated person you can always count on!
                 </p>
             </div>
         </div>
