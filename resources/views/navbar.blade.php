@@ -5,17 +5,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Lauren Shockley</title>
+    <title>Lauren Shockley's Website</title>
 </head>
 
 <body class="min-h-screen bg-[#000000]">
 
 
-<nav class="border-white bg-transparent dark:bg-gray-800 dark:border-gray-700">
+<nav class="border-white bg-transparent">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-6">
       <a href="/" class="flex items-center">
           
-          <span class="text-2xl text-[#865DFF] font-mono hover:font-bold hover:underline whitespace-nowrap">laurenshockley.com</span>
+          <span class="text-2xl text-[#E384FF] hover:text-[#865DFF] font-mono hover:underline whitespace-nowrap">laurenshockley.com</span>
       </a>
      
       <div class="hidden w-full md:block md:w-auto" id="navbar-solid-bg">

@@ -4,18 +4,18 @@
 
     
 <section class="bg-black">
-    <div class="px-4 py-14 lg:py-16 lg:px-12">
+    <div class="px-auto mb-16 mt-20 lg:py-20 lg:px-12">
         <div class="mx-auto max-w-screen-xl text-center ">
             
-            <h1 class="mb-4 text-4xl font-extrabold tracking-tight font-serif leading-none text-white md:text-5xl lg:text-6xl">Your one-stop-shop for all things me</h1>
-            <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 xl:px-48">Not only do you get to visit a cool website, you get to learn about me in the process!</p>
+            <h1 class="mb-4 text-4xl font-extrabold tracking-normal font-serif leading-none text-white md:text-4xl lg:text-5xl">Your one-stop-shop for all things me</h1>
+            <p class="mb-8 text-lg tracking-tighter font-normal text-gray-300 lg:text-xl sm:px-16 xl:px-48">Not only do you get to visit a cool website, you get to learn about me in the process!</p>
             
-            <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-                <a href="/resume" class="inline-flex justify-center items-center text-[#e5ff00] py-3 px-5 text-base font-medium text-center hover:text-[#E384FF] rounded-lg">
+            <div class="flex flex-col mb-36 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
+                <a href="/resume" class="inline-flex justify-center items-center text-[#e5ff00] px-5 text-base font-medium text-center hover:text-[#E384FF] rounded-lg">
                     Resume
                     <svg class="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </a>
-                <a href="/about" class="inline-flex justify-center items-center text-[#e5ff00] py-3 px-5 text-base font-medium text-center hover:text-[#E384FF] rounded-lg">
+                <a href="/about" class="inline-flex justify-center items-center text-[#e5ff00] px-5 text-base font-medium text-center hover:text-[#E384FF] rounded-lg">
                     About Page
                     <svg class="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </a>
