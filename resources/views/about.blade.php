@@ -69,7 +69,7 @@
 
 an exploratory tech professional - twitter bio
 
-make new twitter and reddit for website 
+make new twitter and reddit for website  
 
 ensure linked in and git lings work. add tryhack me link inside somehwener.
 
