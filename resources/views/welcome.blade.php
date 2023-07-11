@@ -52,7 +52,7 @@
         
                 <div class="col-span-1">
                     <h2 class="mb-4 text-4xl font-serif tracking-tight font-semibold text-white">Symbiosis over Settlement</h2>
-                    <p class="mb-6 font-light text-gray-200 md:text-lg">We're the Wreck Techs! We are a team of undergraduate students at Georgia Tech that assist other students, faculty, and staff throughout the year with technical and customer service needs, specializing in fixing wired and wireless Internet issues within campus residential environments. We assist customers via email, phone, live chat, and in walk-up locations in both Howell Residence Hall and West Village Dining Commons.</p>
+                    <p class="mb-6 font-light text-gray-200 md:text-lg">In the realm of successful organizations, one key ingredient for growth and harmony is the recognition of compatibility between potential new employees and existing ones. On paper, there may be hundreds of people that fit the bill and check the boxes, but when it comes down to it, the game-time decision is often in favor of the prospects that have both knowledge and compatibility with the business and their constituents as a whole (and maybe some cool nature photos). As a student, employee, and overall regular person, I understand this and actively celebrate that I believe myself to be one of these few candidates. Communication and composure in a professional setting can be hard for some; I am thankful that they come easy to me personally.</p>
                 </div>
     
                 <div id="custom-controls-gallery" class="relative w-full" data-carousel="slide">

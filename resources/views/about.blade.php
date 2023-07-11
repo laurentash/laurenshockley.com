@@ -40,7 +40,7 @@
             
             Ongoing website projects include: open source API integration, web-hosted cloud storage and custom VPN for remote drive access. 
 
-            **network access storage n- triston
+        </p>
             
             
             
@@ -51,23 +51,23 @@
     </div>
 </div>
 
+<div class="pt-16 pb-4">
+    <div class="flex justify-center">
+        <div class="max-w-xl">
+            <p class="mx-8 whitespace-pre-line align-middle text-center font-serif text-slate-200 text-2xl">"All we have to decide is what to do with the time that is given us.”</p>
+        </div>
+    </div>
 
-<div class="flex justify-center">
-    <div class="max-w-xl">
-        <p class="mx-8 whitespace-pre-line align-middle text-center font-serif text-slate-200 text-2xl">"All we have to decide is what to do with the time that is given us.”</p>
+    <div class="flex justify-center">
+        <div class="max-w-xl">
+            <p class="mx-8 italic whitespace-pre-line align-middle text-slate-300 text-center font-serif text-1xl">J.R.R. Tolkein</p>
+        </div>
     </div>
 </div>
 
-<div class="flex justify-center">
-    <div class="max-w-xl">
-        <p class="mx-8 italic whitespace-pre-line align-middle text-slate-300 text-center font-serif text-1xl">J.R.R. Tolkein</p>
-    </div>
-</div>
 
 
-
-
-an exploratory tech professional - twitter bio
+{{-- an exploratory tech professional - twitter bio
 
 make new twitter and reddit for website  
 
@@ -77,7 +77,9 @@ openspeed test api add
 
 add honey pot?
 
-adding stuff for github only
+  **network access storage n- triston
+
+adding stuff for github only --}}
 
 
 
