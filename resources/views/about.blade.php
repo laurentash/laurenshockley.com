@@ -81,7 +81,7 @@ add honey pot?
 
 adding stuff for github only --}}
 
-github pages test
+github pages test v2
 
 
 @endsection
